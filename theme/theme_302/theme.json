@@ -1,0 +1,13 @@
+{
+  "service": "",
+  "license": "one",
+  "version": "5.0",
+  "active": true,
+  "members": [
+    {
+      "check": "Default",
+      "Domain": ""
+      ]
+    },
+  ]
+}
