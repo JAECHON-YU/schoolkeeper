@@ -146,8 +146,8 @@ if(defined('_INDEX_')) { // index에서만 실행
 		-->
 		
 		<div class="item youtube">
-			<iframe class="embed-player slide-media" src="https://www.youtube.com/embed/5sr90soUrrI?si=Pf3PCshvmTeKt6P5<?php echo $yt_url?>?version=3&vq=hd1080&t=160s&enablejsapi=1&controls=0&fs=0&iv_load_policy=3&rel=0&showinfo=0&loop=1&start=1" frameborder="0" allowfullscreen></iframe> 
-			<figcaption class="caption ko lh1-5"><div class="small-text mt30">충북인라인포털</div></figcaption>
+			<iframe class="embed-player slide-media" src="https://www.youtube.com/embed/HS29xg0HXSM?si=kjkGF9qWaM0efTuB<?php echo $yt_url?>?version=3&vq=hd1080&t=160s&enablejsapi=1&controls=0&fs=0&iv_load_policy=3&rel=0&showinfo=0&loop=1&start=1" frameborder="0" allowfullscreen></iframe> 
+			<figcaption class="caption ko lh1-5"><div class="small-text mt30">학교시설지킴이</div></figcaption>
 		</div>
 
 		<!-- 유튜브 
@@ -157,8 +157,8 @@ if(defined('_INDEX_')) { // index에서만 실행
 		</div>
 		-->
 		<div class="item youtube">
-			<iframe class="embed-player slide-media" src="https://www.youtube.com/embed/VGdQGNVQv-I?si=o1hf9XcItJHhwOc8<?php echo $yt_url?>?version=3&vq=hd1080&t=160s&enablejsapi=1&controls=0&fs=0&iv_load_policy=3&rel=0&showinfo=0&loop=1&start=1" frameborder="0" allowfullscreen></iframe> 
-			<figcaption class="caption ko lh1-5"><div class="small-text mt30">충북인라인포털</div></figcaption>
+			<iframe class="embed-player slide-media" src="https://www.youtube.com/embed/HS29xg0HXSM?si=kjkGF9qWaM0efTuB<?php echo $yt_url?>?version=3&vq=hd1080&t=160s&enablejsapi=1&controls=0&fs=0&iv_load_policy=3&rel=0&showinfo=0&loop=1&start=1" frameborder="0" allowfullscreen></iframe> 
+			<figcaption class="caption ko lh1-5"><div class="small-text mt30">학교시설지킴이</div></figcaption>
 		</div>
 		
 		<!-- mp4 동영상 
@@ -309,23 +309,6 @@ if(defined('_INDEX_')) { // index에서만 실행
 
 
 
-	<!-------------------------- 하단 배너 -------------------------->
-	<!-- 
-	테마폴더/js/custom.js : 283줄
-	-->
-	<div class="container mb40">
-		<div class="row">
-			<div class="col-md-12">
-				<div id="banner-carousel" class="owl-carousel owl-theme">
-					<div class="item"><a href="https://koreaskate.or.kr/" target="_blank" rel="noopener noreferrer"><img src="https://cjrsf2025.mycafe24.com/pages/img/etc/krsf.png" alt="대한롤러스포츠연맹"></a></div>
-					<div class="item"><a href="https://www.sports.or.kr/" target="_blank" rel="noopener noreferrer"><img src="https://cjrsf2025.mycafe24.com/pages/img/etc/sports.svg" alt="대한체육회"></a></div>
-					<div class="item"><a href="http://www.cbsports.or.kr/" target="_blank" rel="noopener noreferrer"><img src="https://cjrsf2025.mycafe24.com/pages/img/etc/cb.gif" alt="충청북도체육회"></a></div>
-					<div class="item"><a href="http://www.cjsports.or.kr/" target="_blank" rel="noopener noreferrer"><img src="https://cjrsf2025.mycafe24.com/pages/img/etc/cj.png" alt="청주시체육회"></a></div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-------------------------- 하단 배너 끝 -------------------------->
 
 
 

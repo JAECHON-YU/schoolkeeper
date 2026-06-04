@@ -33,8 +33,8 @@
                     </div>
                     <div class="col-sm-9 text-right">
                         <ul class="list-inline top-dark-right">                      
-                            <li class="hidden-sm hidden-xs"><i class="fa fa-envelope"></i> <a href="mailto:coupe3@naver.com">coupe3@naver.com</a></li>
-                            <li class="hidden-sm hidden-xs"><i class="fa fa-phone"></i><a href="tel:01050057024">010-5005-7024</li>
+                            <li class="hidden-sm hidden-xs"><i class="fa fa-envelope"></i> <a href="mailto:ksgi043@hanmail.com">ksgi043@hanmail.com</a></li>
+                            <li class="hidden-sm hidden-xs"><i class="fa fa-phone"></i><a href="tel:01044668013">010-4466-8013</li>
 							<?php if($is_member){?>
 							<?php if ($is_admin) {  ?>
 							<li class="tnb_admin"><a href="<?php echo G5_ADMIN_URL ?>"><b><i class="fa fa-user-circle" aria-hidden="true"></i> 관리자</b></a></li>
@@ -107,7 +107,7 @@
                     </button>
 
 					<!-- logo -->
-					<a href="<?php echo G5_URL?>"><img src="<?php echo G5_THEME_URL?>/img/logo7.png" class="img-responsive m-logo" style="width:200px;"></a>
+					<a href="<?php echo G5_URL?>"><img src="<?php echo G5_THEME_URL?>/img/schoolkeeper.jpeg" class="img-responsive m-logo" style="width:200px;"></a>
 
 					<!-- 
 					텍스트로고

@@ -91,6 +91,7 @@ Version : ver 5.0(LAST)
 
 
 		<link href="<?php echo G5_THEME_URL ?>/css/common.css" rel="stylesheet" type="text/css" media="screen">
+		<link href="<?php echo G5_THEME_URL ?>/css/custom.css" rel="stylesheet" type="text/css" media="screen">
 		<link href="<?php echo G5_THEME_URL?>/css/slick.min.css" rel="stylesheet">
 		<link href="<?php echo G5_THEME_URL?>/css/jquery.bxslider.min.css" rel="stylesheet">
 

@@ -4,7 +4,7 @@
                 <div class="row">
                     <div class="col-md-6 col-md-offset-3 text-center">
                         <div class="footer-col footer-3">
-                            <h3>충북인라인포털</h3>
+                            <h3>학교시설지킴이</h3>
 							<p>
 							<strong>
 								<a href="#none" class="color-gray">포털소개</a> | 
@@ -13,7 +13,7 @@
 							</strong>
 							</p>
                             <p>
-                                충청북도 청주시 서원구 흥덕로 61 청주실내롤러경기장 내 | 담당자: 박병훈 | 연락처 010-5005-7024
+                                경기도 용인시 기흥구 동백중앙로 191 시티프라자 808호 | 담당자: 유재일 | 연락처 010-4466-8013
                             </p>
                              <ul class="list-inline footer-social">
                                 <li>
@@ -57,7 +57,7 @@
                 <div class="row">
                     <div class="col-md-12 text-center">
                         <div class="footer-btm">
-                            <span>©2025. 충북인라인포털</span>
+                            <span>©2025. 학교시설지킴이</span>
                         </div>
                     </div>
                 </div>
